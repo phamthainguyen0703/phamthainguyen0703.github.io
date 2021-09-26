@@ -154,7 +154,7 @@ row::after{
 
 .slider{
     position: relative;
-    background: url("/w3_theband/ssets/img/slider/slider1.jpg")top center/ cover no-repeat ;
+    background: url("../img/slider/slider1.jpg")top center/ cover no-repeat ;
     margin-top:46px ;
     padding-top: 50%;
      
@@ -176,6 +176,8 @@ row::after{
 .slider .heading-description{
     font-size: 15px;
     margin: 15px 0;
+    text-shadow: 0 0 4px #000;
+
 }
 .content{
     overflow: hidden;
